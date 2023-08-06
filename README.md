@@ -3,4 +3,4 @@
 <h2 align="center">I am a Full-Stack Developer👨‍💻,Blockchain-Enthusiast🔗</h2>
 <p align="center">I am a web developer who finds joy in crafting captivating websites. Additionally, I cherish engaging conversations with new people, fostering meaningful connections along the way.</p>
 <h2>🤝Connect with me:</h3>
-<img src="https://raw.githubusercontent.com/yushi1007/yushi1007/05fea7c9a730f73ed6c6ad9eae0722a6fa9c69fd/images/instagram.svg">
+<a href="https://www.linkedin.com/in/rahulselvakumar/"><img src="https://raw.githubusercontent.com/yushi1007/yushi1007/05fea7c9a730f73ed6c6ad9eae0722a6fa9c69fd/images/instagram.svg" width="21px"></a>
