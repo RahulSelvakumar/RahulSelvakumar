@@ -1,5 +1,5 @@
-
-<img src=”https://github.com/RahulSelvakumar/RahulSelvakumar/assets/112105461/b49ac2e8-34da-4457-bfd1-70f08c6798f3" alt=”myBanner”>
-
+<p align="center">
+![Profile](https://github.com/RahulSelvakumar/RahulSelvakumar/assets/112105461/25e26355-d4ce-44f9-adf9-ba1b6751fd77)
+</p>
 - 🔭 I’m currently working on Full stack MERN Development
 - 🌱 I’m currently learning DSA and MERN stack
