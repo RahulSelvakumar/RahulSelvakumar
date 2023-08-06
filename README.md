@@ -32,8 +32,8 @@
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 </div>
 <h2>📈Github Stats</h2>
-<img src="https://github-readme-stats.vercel.app/api?username={RahulSelvakumar}&theme=blue-green">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username={username}&theme=blue-green">
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=RahulSelvakumar&show_icons=true)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username={RahulSelvakumar}&theme=blue-green">
 
 
 
