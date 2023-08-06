@@ -32,8 +32,10 @@
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 </div>
 <h2>📈Github Stats</h2>
-<img display="inline" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RahulSelvakumar&&show_icons=true&theme=dark">
-<img display="inline" src="https://streak-stats.demolab.com/?user=RahulSelvakumar&theme=dark">
+<div display="inline">
+<img src="https://streak-stats.demolab.com/?user=RahulSelvakumar&theme=dark">
+<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RahulSelvakumar&&show_icons=true&theme=dark">
+</div>
 <h2>💻Languages Used: </h2>
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RahulSelvakumar">
 
