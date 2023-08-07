@@ -33,7 +33,7 @@
 </div>
 <h2>📈Github Stats</h2>
 <div display="inline">
-<img src="https://streak-stats.demolab.com/?user=RahulSelvakumar&theme=dark">
+<img style="margin:5px" src="https://streak-stats.demolab.com/?user=RahulSelvakumar&theme=dark">
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RahulSelvakumar&&show_icons=true&theme=dark">
 </div>
 <h2>💻Languages Used: </h2>
