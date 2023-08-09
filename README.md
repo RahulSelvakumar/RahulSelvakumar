@@ -1,4 +1,3 @@
-![Profile](https://github.com/RahulSelvakumar/RahulSelvakumar/assets/112105461/25e26355-d4ce-44f9-adf9-ba1b6751fd77)
 ![Grey Minimalist Modern Social Media Specialist LinkedIn Banner](https://github.com/RahulSelvakumar/RahulSelvakumar/assets/112105461/fcf30163-b8c9-42f0-8c99-b1904023c5e6)
 <h3 align="center">Hi There, I am <a href="https://www.linkedin.com/in/rahulselvakumar/">Rahul 👋</a></h3>
 <h2 align="center">I am a Full-Stack Developer👨‍💻, Blockchain-Enthusiast🔗</h2>
