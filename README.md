@@ -47,14 +47,3 @@ I am actively building AI-driven solutions—like my recent **Apex-Tracker AI** 
 </p>
 
 ---
-
-### 📈 GitHub Stats
-<p>
-  <img style="margin-right:10px" src="https://github-readme-streak-stats.herokuapp.com/?user=RahulSelvakumar&theme=dark" alt="GitHub Streak">
-  <img src="https://github-readme-stats.vercel.app/api?username=RahulSelvakumar&show_icons=true&theme=dark" alt="GitHub Stats">
-</p>
-
-### 📊 Top Languages
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulSelvakumar&theme=dark&layout=compact" alt="Top Languages">
-</p>
