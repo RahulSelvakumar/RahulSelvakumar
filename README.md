@@ -1,3 +1,5 @@
+![Grey Minimalist Modern Social Media Specialist LinkedIn Banner](https://github.com/RahulSelvakumar/RahulSelvakumar/assets/112105461/fcf30163-b8c9-42f0-8c99-b1904023c5e6)
+
 ### Hi There, I am [Rahul](https://www.linkedin.com/in/rahulselvakumar/) 👋
 ## Mobile App Automation Tester 📱 | Exploring Agentic AI 🤖 | Full-Stack Dev 👨‍💻
 
@@ -11,14 +13,14 @@ I am actively building AI-driven solutions—like my recent **Apex-Tracker AI** 
 
 ---
 
-### 🤖 Agentic AI & Gen AI Stack (Apex-Tracker AI)
+### 🤖 Agentic AI & Gen AI Stack
 <p>
   <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white">
   <img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logo=chainlink&logoColor=white">
-  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
   <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black">
-  <img src="https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logo=pinecone&logoColor=white">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub_Copilot-2b3137?style=for-the-badge&logo=github-copilot&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/import_antigravity-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </p>
 
 ### 📱 Mobile Automation
@@ -39,11 +41,24 @@ I am actively building AI-driven solutions—like my recent **Apex-Tracker AI** 
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
 </p>
 
-### 🛠️ Tools
+### ☁️ Cloud, DevOps & Tools
 <p>
+  <img src="https://img.shields.io/badge/Google_Cloud_Run-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">
+  <img src="https://img.shields.io/badge/Terminal/CLI-4D4D4D?style=for-the-badge&logo=gnu-bash&logoColor=white">
   <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white">
 </p>
 
 ---
+
+### 📈 GitHub Stats
+<p>
+  <img style="margin-right:10px" src="https://github-readme-streak-stats.herokuapp.com/?user=RahulSelvakumar&theme=dark" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api?username=RahulSelvakumar&show_icons=true&theme=dark" alt="GitHub Stats">
+</p>
+
+### 📊 Top Languages
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RahulSelvakumar&theme=dark&layout=compact" alt="Top Languages">
+</p>
