@@ -7,7 +7,7 @@ I am actively building AI-driven solutions—like my recent **Apex-Tracker AI** 
 
 ### 🤝 Connect with me:
 <a href="https://www.linkedin.com/in/rahulselvakumar/"><img src="https://img.icons8.com/?size=512&id=13930&format=png" alt="Rahul|LinkedIn" width="35px"/></a>
-<a href="https://www.instagram.com/___.rxhulll.___/"><img src="https://img.icons8.com/?size=512&id=Xy10Jcu1L2Su&format=png" alt="Rahul|Instagram" width="35px"/></a>
+<a href="https://www.instagram.com/_.rahulselvakumar._/"><img src="https://img.icons8.com/?size=512&id=Xy10Jcu1L2Su&format=png" alt="Rahul|Instagram" width="35px"/></a>
 
 ---
 
